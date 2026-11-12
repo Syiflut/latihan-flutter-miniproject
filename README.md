@@ -9,6 +9,8 @@ Aplikasi mobile / web sederhana satu halaman (*Single Page App*) yang dibuat men
 - **Informasi:** `Card` & `ListTile`
 - **Tema:** Global `ThemeData`
 
-## Pembuat:
+## Tampilan Output 
+ <img width="992" height="1496" alt="image" src="https://github.com/user-attachments/assets/b912c4fc-2a6a-4cd2-9917-00a70144b7e0" />
+
 - **Nama:** Syifa Lutfia Aulia
 - **Kelas:** Teknik Informatika - Kelas Karyawan
